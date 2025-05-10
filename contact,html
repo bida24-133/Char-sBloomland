@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - Char's Bloomland</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Contact Us</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="review.html">Reviews</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section class="contact">
+      <h2>We'd love to hear from you!</h2>
+      <p>Email: kelapilejessica@gmail.com</p>
+      <p>Phone: +267 74236412</p>
+      <p>Address: Plot 143, Gaborone West, Botswana</p>
+      <form>
+        <input type="text" placeholder="Your Name" required>
+        <input type="email" placeholder="Your Email" required>
+        <textarea placeholder="Your Message"></textarea>
+        <button type="submit">Send</button>
+      </form>
+      <img src="flower21.jpg" alt="Contact Flower">
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Char's Bloomland. Stay in touch!</p>
+  </footer>
+</body>
+</html>
